@@ -1,2 +1,2 @@
 # test
-training session
+training session for AIT
